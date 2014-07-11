@@ -231,6 +231,6 @@ Student.create(name:"Jozef Woroniecki",
 	project1:"",
 	project2:"",
 	project3:"",
-	photo:"grumpycat.jpg")
+	photo:"camera-no-image.jpg")
 
 
