@@ -90,9 +90,9 @@ Student.create(name:"Courtney McIlhenny",
 	 photo:"WDI_bw_Courtney.jpg")
 
 Student.create(name:"Jason Kim",
-	 bio:"I was working mostly in public sector jobs, and my most recent job was a Legislative Correspondent for Congress. I basically did research and met with a lot of different groups regarding upcoming bills/laws.",
+	 bio:"I was always very interested in public service, and I took jobs at non-profits and for the government.  My last position was as a Legislative Aide for a Congressman in Washington DC.",
 	 github:"https://github.com/jasonckim",
-	 linkedin:"https://www.linkedin.com/pub/jason-kim/90/653/255",
+	 linkedin:"https://www.linkedin.com/in/jasonckim10",
 	 website:"http://jasonckim.herokuapp.com/",
 	 project1:"",
 	 project2:"",
