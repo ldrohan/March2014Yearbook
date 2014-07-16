@@ -110,7 +110,7 @@ Student.create(name:"Dante Karlesimo",
 	 photo:"WDI_bw_Dante.jpg")
 
 Student.create(name:"Joshua Pearson",
-	 bio:"After getting my degree in Criminal Justice I turned down a career in law, and moved to San Franciscco. Here my passion for technology blossomed and I decided to take the plunge into WDI where I discovered my love for programming."
+	 bio:"After getting my degree in Criminal Justice I turned down a career in law, and moved to San Franciscco. Here my passion for technology blossomed and I decided to take the plunge into WDI where I discovered my love for programming.",
 	 github:"https://github.com/Joshua-Pearson",
 	 linkedin:"https://www.linkedin.com/in/joshuapears0n",
 	 website:"http://www.joshuaDpearson.com",
