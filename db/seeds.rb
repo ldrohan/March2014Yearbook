@@ -110,11 +110,11 @@ Student.create(name:"Dante Karlesimo",
 	 photo:"WDI_bw_Dante.jpg")
 
 Student.create(name:"Joshua Pearson",
-	 bio:"After getting my degree in Criminal Justice I was in customer service for the last 5 years, managing a busy restaurant and art gallery in San Francisco.",
+	 bio:"After getting my degree in Criminal Justice I turned down a career in law, and moved to San Franciscco. Here my passion for technology blossomed and I decided to take the plunge into WDI where I discovered my love for programming."
 	 github:"https://github.com/Joshua-Pearson",
 	 linkedin:"https://www.linkedin.com/in/joshuapears0n",
-	 website:"http://joshua-pearson.github.io/",
-	 project1:"",
+	 website:"http://www.joshuaDpearson.com",
+	 project1:"http://www.covered-sf.com",
 	 project2:"",
 	 project3:"",
 	 photo:"WDI_bw_Josh.jpg")
