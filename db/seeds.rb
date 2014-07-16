@@ -1,6 +1,6 @@
 
 Student.create(name:"Taylor Chiu",
-	 bio:"I am passionate about education and educational technology. I have taught English in the US and abroad, at both private and public institutions. Most recently, I served as Program Coordinator for an online tutoring start-up. Each summer, I spend a few weeks teaching photography on international expeditions with National Geographic Student Expeditions - I'm headed to Australia this year!",
+	 bio:"I am passionate about education and educational technology. I have taught English in the US and abroad, at both private and public institutions. Most recently, I served as Program Coordinator for an online tutoring start-up. Each summer, I spend a few weeks teaching photography for National Geographic Student Expeditions - I'm headed to Australia this year!",
 	 github:"https://github.com/taylorchiu",
 	 linkedin:"https://www.linkedin.com/in/taylorchiu",
 	 website:"http://www.taylorparkerchiu.com",
